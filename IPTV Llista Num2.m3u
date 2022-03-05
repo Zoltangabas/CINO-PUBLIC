@@ -1,0 +1,301 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Discovery"  tvg-name="23018 Discovery" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg" ,C23018 Discovery
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23018
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Panda"  tvg-name="23019 Panda" group-title="INFANTIL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg" ,C23019 Panda
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23019
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="AMC"  tvg-name="23020 AMC" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23020 AMC
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23020
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="TCM"  tvg-name="23021 TCM" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg" ,C23021 TCM
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23021
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Odisea"  tvg-name="23022 Odisea" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/odisea.jpg" ,C23022 Odisea
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23022
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Historia"  tvg-name="23023 Historia" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg" ,C23023 Historia
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23023
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="CANALSUR"  tvg-name="23024 CANALSUR" group-title="REGIONAL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalsur.jpg" ,C23024 CANALSUR
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23024
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="TV2"  tvg-name="23025 TV2" group-title="General" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg" ,C23025 TV2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23025
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="syfy"  tvg-name="23026 syfy" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg" ,C23026 syfy
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23026
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Sundance"  tvg-name="23027 Sundance" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/sundance.jpg" ,C23027 Sundance
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23027
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Nickelodeon"  tvg-name="23028 Nickelodeon" group-title="INFANTIL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg" ,C23028 Nickelodeon
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23028
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="National Geografic"  tvg-name="23029 National Geografic" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg" ,C23029 National Geografic
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23029
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="National Geografic WILD"  tvg-name="23030 National Geografic WILD" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg" ,C23030 National Geografic WILD
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23030
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DisneyChanel"  tvg-name="23031 DisneyChanel" group-title="INFANTIL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneychannel.jpg" ,C23031 DisneyChanel
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23031
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="MOVISTAR ?"  tvg-name="23032 MOVISTAR ?" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23032 MOVISTAR ?
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23032
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Series 2"  tvg-name="23033 Series 2" group-title="SERIES" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg" ,C23033 Series 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23033
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Series 2"  tvg-name="23034 Series 2" group-title="SERIES" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg" ,C23034 Series 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23034
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Liga Campeones"  tvg-name="23035 Liga Campeones" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23035 Liga Campeones
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23035
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Golf"  tvg-name="23036 Golf" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg" ,C23036 Golf
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23036
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DAZN F1"  tvg-name="23037 DAZN F1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23037 DAZN F1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23037
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="ESTRENOS"  tvg-name="23038 ESTRENOS" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg" ,C23038 ESTRENOS
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23038
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DRAMA"  tvg-name="23039 DRAMA" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23039 DRAMA
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23039
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="ESTRENOS"  tvg-name="23040 ESTRENOS" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg" ,C23040 ESTRENOS
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23040
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DEPORTES 1"  tvg-name="23041 DEPORTES 1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg" ,C23041 DEPORTES 1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23041
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="ACCION"  tvg-name="23042 ACCION" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg" ,C23042 ACCION
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23042
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="COMEDIA"  tvg-name="23043 COMEDIA" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg" ,C23043 COMEDIA
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23043
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23044  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23044  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23044
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LigaTvBar"  tvg-name="23045 LigaTvBar" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23045 LigaTvBar
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23045
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Hollywood"  tvg-name="23046 Hollywood" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg" ,C23046 Hollywood
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23046
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="STAR Life"  tvg-name="23047 STAR Life" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23047 STAR Life
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23047
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="FOX"  tvg-name="23048 FOX" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg" ,C23048 FOX
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23048
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Eurosport 2"  tvg-name="23049 Eurosport 2" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg" ,C23049 Eurosport 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23049
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Eurosport 1"  tvg-name="23050 Eurosport 1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg" ,C23050 Eurosport 1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23050
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DisneyChanel"  tvg-name="23051 DisneyChanel" group-title="INFANTIL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneychannel.jpg" ,C23051 DisneyChanel
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23051
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Discovery"  tvg-name="23052 Discovery" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg" ,C23052 Discovery
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23052
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Cosmo"  tvg-name="23053 Cosmo" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/cosmo.jpg" ,C23053 Cosmo
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23053
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="TeleMadrid"  tvg-name="23054 TeleMadrid" group-title="REGIONAL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/telemadrid.jpg" ,C23054 TeleMadrid
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23054
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="CazayPesca"  tvg-name="23055 CazayPesca" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23055 CazayPesca
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23055
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Calle13"  tvg-name="23056 Calle13" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg" ,C23056 Calle13
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23056
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LaLiga"  tvg-name="23057 LaLiga" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png" ,C23057 LaLiga
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23057
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="AXNwhite"  tvg-name="23058 AXNwhite" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg" ,C23058 AXNwhite
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23058
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="AXN"  tvg-name="23059 AXN" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg" ,C23059 AXN
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23059
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="#0#"  tvg-name="23060 #0#" group-title="General" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" ,C23060 #0#
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23060
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23061  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23061  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23061
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="TV3"  tvg-name="23062 TV3" group-title="General" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/TV3-44x36.jpg" ,C23062 TV3
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23062
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Malaga"  tvg-name="23063 Malaga" group-title="REGIONAL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23063 Malaga
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23063
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Malaga"  tvg-name="23064 Malaga" group-title="REGIONAL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23064 Malaga
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23064
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="SOLMUSICA"  tvg-name="23065 SOLMUSICA" group-title="MUSICA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/solmusica.jpg" ,C23065 SOLMUSICA
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23065
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="HIT"  tvg-name="23066 HIT" group-title="MUSICA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23066 HIT
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23066
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Dos Boomerangs"  tvg-name="23067 Dos Boomerangs" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23067 Dos Boomerangs
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23067
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="FOX_NEWS"  tvg-name="23068 FOX_NEWS" group-title="NOTICIES" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox_news.jpg" ,C23068 FOX_NEWS
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23068
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="ESTRENOS 2"  tvg-name="23069 ESTRENOS 2" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23069 ESTRENOS 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23069
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="CANALSUR"  tvg-name="23070 CANALSUR" group-title="REGIONAL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalsur.jpg" ,C23070 CANALSUR
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23070
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23071  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23071  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23071
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="CadenaELITE"  tvg-name="23072 CadenaELITE" group-title="MUSICA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23072 CadenaELITE
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23072
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="NO_NAME"  tvg-name="23073 NO_NAME" group-title="No_Name_Grup" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23073 NO_NAME
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23073
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="BabyTV"  tvg-name="23074 BabyTV" group-title="INFANTIL" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/baby_tv.jpg" ,C23074 BabyTV
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23074
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23075  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23075  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23075
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="DAZN1"  tvg-name="23076 DAZN1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23076 DAZN1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23076
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="ESTRENOS 2"  tvg-name="23077 ESTRENOS 2" group-title="CINE" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23077 ESTRENOS 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23077
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23078  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23078  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23078
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="TOROS"  tvg-name="23079 TOROS" group-title="Documental" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23079 TOROS
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23079
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23080  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23080  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23080
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23081  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23081  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23081
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23082  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23082  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23082
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23083  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23083  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23083
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23084  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23084  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23084
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23085  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23085  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23085
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23086  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23086  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23086
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23087  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23087  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23087
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23088  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23088  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23088
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23089  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23089  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23089
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23090  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23090  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23090
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="MOVISTAR ?"  tvg-name="23091 MOVISTAR ?" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23091 MOVISTAR ?
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23091
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23092  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23092  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23092
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="MOVISTAR ?"  tvg-name="23093 MOVISTAR ?" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23093 MOVISTAR ?
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23093
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="MOVISTAR ?"  tvg-name="23094 MOVISTAR ?" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23094 MOVISTAR ?
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23094
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23095  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23095  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23095
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23096  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23096  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23096
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23097  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23097  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23097
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Liga Campeones"  tvg-name="23098 Liga Campeones" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23098 Liga Campeones
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23098
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Liga Campeones"  tvg-name="23099 Liga Campeones" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23099 Liga Campeones
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23099
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Liga Campeones"  tvg-name="23100 Liga Campeones" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23100 Liga Campeones
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23100
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Liga Campeones"  tvg-name="23101 Liga Campeones" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23101 Liga Campeones
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23101
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LaLiga 1"  tvg-name="23102 LaLiga 1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23102 LaLiga 1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23102
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LaLiga"  tvg-name="23103 LaLiga" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png" ,C23103 LaLiga
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23103
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LaLiga 2"  tvg-name="23104 LaLiga 2" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23104 LaLiga 2
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23104
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="LaLiga 1"  tvg-name="23105 LaLiga 1" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23105 LaLiga 1
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23105
+
+#EXTINF:-1 tvg-shift=+1 tvg-id="Being Esport 4"  tvg-name="23106 Being Esport 4" group-title="ESPORTS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23106 Being Esport 4
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23106
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23107  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23107  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23107
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23108  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23108  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23108
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23109  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23109  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23109
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23110  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23110  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23110
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23111  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23111  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23111
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23112  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23112  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23112
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23113  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23113  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23113
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23114  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23114  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23114
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23115  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23115  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23115
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23116  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23116  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23116
+
+#EXTINF:-1 tvg-shift=+1 tvg-id=" NO SIGNAL"  tvg-name="23117  NO SIGNAL" group-title="0" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/promocional.jpg" ,C23117  NO SIGNAL
+http://vhaabyx.xyz:8080/FSyrVtYvar/verh0VfN94/23117
